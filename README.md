@@ -2,9 +2,6 @@
 This project analyzes marketing performance using SQL, Python, and Power BI. It includes data cleaning, sentiment analysis, interactive dashboards, and insights presentation.
 # Marketing Analytics Portfolio Project
 
-## **Project Title:**  
-**"Marketing Analytics Dashboard – Data-Driven Insights with SQL, Python, and Power BI"**
-
 ---
 
 ## **Project Overview**  
